@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=leviding&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff" />
 
-你好，我是 LeviDing，现居武汉，现为 [现代 JavaScript 教程](https://github.com/javascript-tutorial/zh.javascript.info) 负责人，[公众号技术漫谈](https://user-images.githubusercontent.com/26959437/100874831-1ab01c80-34e0-11eb-8495-027bc22d50cf.png) 运营者，前 [掘金翻译计划](https://github.com/xitu/gold-miner) 负责人，曾实习于 [掘金](https://juejin.cn/) 和 [墨刀](https://modao.cc/)。本科做的嵌入式开发，硕士做的机器学习，现从事前端开发，努力成为一名全栈开发者，希望能够做出对世界有一点点微小贡献的产品。喜欢旅行，摄影，骑行，读书，电影。
+你好，我是 LeviDing，现居武汉，现为 [现代 JavaScript 教程](https://github.com/javascript-tutorial/zh.javascript.info) 负责人，[公众号：技术漫谈](https://user-images.githubusercontent.com/26959437/100874831-1ab01c80-34e0-11eb-8495-027bc22d50cf.png) 运营者，前 [掘金翻译计划](https://github.com/xitu/gold-miner) 负责人，曾实习于 [掘金](https://juejin.cn/) 和 [墨刀](https://modao.cc/)。本科做的嵌入式开发，硕士做的机器学习，现从事前端开发，努力成为一名全栈开发者，希望能够做出对世界有一点点微小贡献的产品。喜欢旅行，摄影，骑行，读书，电影。
 
 如果你想聊聊技术或者交个朋友，可以给我 [发邮件](mailto:imdingxuewen@gmail.com)，也可以加我微信 `517010193`。
 
