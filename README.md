@@ -1,8 +1,10 @@
 ### 🚀 LeviDing
 
+<!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=leviding&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff" />
+-->
 
-你好，我是 LeviDing，现居广州。[现代 JavaScript 教程](https://github.com/javascript-tutorial/zh.javascript.info) 负责人，公众号：[技术漫谈](https://user-images.githubusercontent.com/26959437/120764347-a3b91680-c54a-11eb-9a15-31bb2596b0db.png) 和 [编程每日一题](https://user-images.githubusercontent.com/26959437/120764353-a61b7080-c54a-11eb-8a79-75177c342b45.png) 负责人，前 [掘金翻译计划](https://github.com/xitu/gold-miner) 负责人，[《Python 机器学习实战：真实智能案例实践指南》](https://item.jd.com/13269240.html)译者，曾就职于 [阿里云](https://www.aliyun.com/)，曾实习于 [阿里云](https://www.aliyun.com/)，[掘金](https://juejin.cn/) 和 [墨刀](https://modao.cc/)。本科做的嵌入式开发，硕士做的机器学习，现从事前端开发，努力成为一名全栈开发者，希望能够做出对世界有一点点微小贡献的产品。喜欢旅行，摄影，骑行，轮滑，滑板，读书，电影。
+你好，我是 LeviDing，现居广州。[现代 JavaScript 教程](https://github.com/javascript-tutorial/zh.javascript.info) 负责人，前 [掘金翻译计划](https://github.com/xitu/gold-miner) 负责人，[《Python 机器学习实战：真实智能案例实践指南》](https://item.jd.com/13269240.html)译者，曾就职于 [阿里云](https://www.aliyun.com/)，曾实习于 [阿里云](https://www.aliyun.com/)，[掘金](https://juejin.cn/) 和 [墨刀](https://modao.cc/)。本科做的嵌入式开发，硕士做的机器学习，现从事前端开发（React + Vue + Node.js），努力成为一名全栈开发者，希望能够做出对世界有一点点微小贡献的产品。微信公众号：[技术漫谈](https://user-images.githubusercontent.com/26959437/120764347-a3b91680-c54a-11eb-9a15-31bb2596b0db.png) 和 [编程每日一题](https://user-images.githubusercontent.com/26959437/120764353-a61b7080-c54a-11eb-8a79-75177c342b45.png) 欢迎关注 👏
 
 如果你想聊聊技术或者交个朋友，可以给我 [发邮件](mailto:imdingxuewen@gmail.com)，也可以加我微信 `517010193`。
 
