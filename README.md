@@ -8,6 +8,9 @@
 
 如果你想聊聊技术或者交个朋友，可以给我 [发邮件](mailto:imdingxuewen@gmail.com)，也可以加我微信 `517010193`。
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 
 Here are some ideas to get you started:
