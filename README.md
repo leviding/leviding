@@ -4,23 +4,24 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=leviding&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff" />
 -->
 
-你好，我是 LeviDing，现居广州。[现代 JavaScript 教程](https://github.com/javascript-tutorial/zh.javascript.info) 负责人，前 [掘金翻译计划](https://github.com/xitu/gold-miner) 负责人，[《Python 机器学习实战：真实智能案例实践指南》](https://item.jd.com/13269240.html)译者，曾就职于 [阿里云](https://www.aliyun.com/)，曾实习于 [阿里云](https://www.aliyun.com/)，[掘金](https://juejin.cn/) 和 [墨刀](https://modao.cc/)。本科学的嵌入式开发，硕士学的人工智能，现从事前端开发（React + Vue + Node.js），努力成为一名全栈开发者，希望能够做出对世界有一点点微小贡献的产品。微信公众号：[技术漫谈](https://user-images.githubusercontent.com/26959437/120764347-a3b91680-c54a-11eb-9a15-31bb2596b0db.png) 和 [编程每日一题](https://user-images.githubusercontent.com/26959437/120764353-a61b7080-c54a-11eb-8a79-75177c342b45.png) 欢迎关注 👏
+你好，我是 LeviDing，数字游民，增长黑客，AI + 出海探索者，[现代 JavaScript 教程](https://github.com/javascript-tutorial/zh.javascript.info) 中国负责人，[《Python 机器学习实战：真实智能案例实践指南》](https://item.jd.com/13269240.html)译者，PADI 救援潜水员，前阿里云前端开发工程师，前上市公司前端负责人，前 [掘金翻译计划](https://github.com/xitu/gold-miner) 负责人。本科学的嵌入式开发，硕士学的人工智能，现专注于 AI + 出海，环球旅居中 🏝️
 
-如果你想聊聊技术或者交个朋友，可以给我 [发邮件](mailto:imdingxuewen@gmail.com)，也可以加我微信 `517010193`。
+如果你想交个朋友，可以给我 [发邮件](mailto:imdingxuewen@gmail.com)，也可以加我微信 `517010193`。
+
+我的社交媒体账号，欢迎关注：
+
+- 微信公众号：[LeviDing](https://github.com/user-attachments/assets/2151334e-96c0-4f26-bb67-b039dc98d58c)
+- bilibili：https://space.bilibili.com/304586774
+- Twitter：https://x.com/levidingx
+
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+1. 我是谁：身份、职业履历
+2. 我干了什么：过去的成就
+3. 我提供的价值和服务：
+4. 初心、愿景、人生格言
 -->
