@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-## About
-
-Hi, I’m **Levi Ding** — a software developer passionate about **AI** and its global applications.  
+I’m **Levi Ding** — a software developer passionate about **AI** and its global applications.  
 
 - 🌐 Maintainer of the [Chinese edition](https://github.com/javascript-tutorial/zh.javascript.info) of the **Modern JavaScript Tutorial**  
 - 📖 Translator of *[Python Machine Learning in Action: A Practical Guide to Real-World AI Projects](https://item.jd.com/13269240.html)*  
